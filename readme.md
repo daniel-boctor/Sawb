@@ -4,7 +4,6 @@
 
 | Arg            | Shorthand   | Default | Description
 | -----------    | ----------- | ------- | -----------
-| extention      | e           | txt     | Specificy the file type you would like to index.
 | delimiter      | d           | ' '     | Specificy the delimiter for the file names.
 | output         | o           | index   | Specificy the file name you would like to write to.
 | output_type    | t           | txt     | Specificy weather the output file should be a txt, or a csv.
